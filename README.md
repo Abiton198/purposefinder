@@ -1,2 +1,3 @@
-# purposefinder
-Online management platform for a multi-campus school. Digital platform to improve school management at one place - online.
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
